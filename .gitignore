@@ -20,7 +20,6 @@ ipch
 *.log
 *.pdb
 *.ilk
-*.user
 *.sdf
 *.suo
 *.VC.db
